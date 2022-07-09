@@ -1,0 +1,15 @@
+# ninja log v5
+3	20	1657381671510181090	/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/rotate_autogen/mocs_compilation.cpp	f8dee75219eb8436
+13	79	1657381663372524610	/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/TESTS_autogen/timestamp	7eb079517b9a5357
+83	815	1657381619361773180	CMakeFiles/rotate.dir/main.cpp.o	a646180ee6c00b4
+83	157	1657381618705308675	CMakeFiles/rotate.dir/rotate_autogen/mocs_compilation.cpp.o	21e63c6dfd2d3f64
+3	20	1657381671510181090	rotate_autogen/mocs_compilation.cpp	f8dee75219eb8436
+3	20	1657381671510181090	rotate_autogen/timestamp	f8dee75219eb8436
+83	317	1657381618864948912	CMakeFiles/rotate.dir/rotate.cpp.o	3fd9465356b5cc05
+13	79	1657381663372524610	TESTS_autogen/mocs_compilation.cpp	7eb079517b9a5357
+816	867	1657381619416560378	rotate	f90f4a45cbec547d
+3	20	1657381671510181090	/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/rotate_autogen/timestamp	f8dee75219eb8436
+13	79	1657381663372524610	TESTS_autogen/timestamp	7eb079517b9a5357
+79	118	1657381663427264059	CMakeFiles/TESTS.dir/TESTS_autogen/mocs_compilation.cpp.o	e2fcbd80b6992cc0
+13	79	1657381663372524610	/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/TESTS_autogen/mocs_compilation.cpp	7eb079517b9a5357
+80	313	1657381663619810749	CMakeFiles/TESTS.dir/rotate_student.cpp.o	89625d834a10f91e

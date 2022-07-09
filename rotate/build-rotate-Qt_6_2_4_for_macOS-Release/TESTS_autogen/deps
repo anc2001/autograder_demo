@@ -1,0 +1,74 @@
+TESTS_autogen/timestamp: \
+	/Users/adrianchang/Dropbox/My\ Mac\ (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/CMakeLists.txt \
+	/Users/adrianchang/Dropbox/My\ Mac\ (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake \
+	/Users/adrianchang/Dropbox/My\ Mac\ (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/CMakeFiles/3.21.1/CMakeSystem.cmake \
+	/Users/adrianchang/Dropbox/My\ Mac\ (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/main.cpp \
+	/Users/adrianchang/Dropbox/My\ Mac\ (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/rotate_student.cpp \
+	/Users/adrianchang/Dropbox/My\ Mac\ (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/rotate_student.h \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/FindWrapAtomic.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/Qt6Config.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/Qt6Targets.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtFeature.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtFeatureCommon.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
+	/Users/adrianchang/Qt/6.2.4/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
+	/Users/adrianchang/Qt/Qt\ Creator.app/Contents/Resources/package-manager/auto-setup.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeCXXInformation.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeFindDependencyMacro.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeGenericSystem.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeParseArguments.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CheckCXXCompilerFlag.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CheckCXXSourceCompiles.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CheckIncludeFileCXX.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CheckLibraryExists.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/Clang.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/GNU.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/FindPackageMessage.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/FindThreads.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Internal/CheckCompilerFlag.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Darwin.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/UnixPaths.cmake \
+	/Users/adrianchang/Qt/Tools/CMake/CMake.app/Contents/bin/cmake

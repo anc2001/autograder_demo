@@ -1,0 +1,5 @@
+/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/CMakeFiles/rotate.dir
+/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/CMakeFiles/rotate_autogen_timestamp_deps.dir
+/Users/adrianchang/Dropbox/My Mac (macbook-air.lan)/Desktop/CS/CS1230_dev/autograder_demo/rotate/build-rotate-Qt_6_2_4_for_macOS-Release/CMakeFiles/rotate_autogen.dir
