@@ -19,3 +19,6 @@ do
     cmake --build ${PROJECT_NAME}
     ${PROJECT_NAME}/rotate
 done
+
+cp rotate.cpp ${PROJECT_NAME}/rotate.cpp 
+cp rotate.h ${PROJECT_NAME}/rotate.h 
